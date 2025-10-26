@@ -8,7 +8,7 @@
 #define PIN_AXIS_Y 4
 #define PIN_JOY_SW 2
 #define PIN_SW1 5
-#define LED 7
+#define LED 6
 
 #define SERVICE_UUID           "12345678-1234-5678-1234-56789abcdef0"
 #define CHARACTERISTIC_NOTIFY   "12345678-1234-5678-1234-56789abcdef1"
