@@ -1,3 +1,6 @@
-M5 Stack を使用することを前提としています。
+# 実行環境
+・Seeeduino Xiao ESP32C3
+・ジョイスティック
+・プルダウンスイッチ
 
-ただし Arduino IDE では`ESP32S3Dev Module`を選択してくださいね。
+Arduino IDE では`Xiao ESP32C3`を選択してくださいね。
